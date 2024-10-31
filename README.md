@@ -25,8 +25,8 @@ To use the OpenWeather API, you need to register for a free API key. Once regist
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Weather-Dashboard.git
-
+ [
+](https://github.com/BetsyAssefa/-Weather-Dashboard.git)
 Navigate to the project directory:
 bash
 Copy code
