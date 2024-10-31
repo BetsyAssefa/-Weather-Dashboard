@@ -23,10 +23,8 @@ SO THAT I can plan a trip accordingly
 To use the OpenWeather API, you need to register for a free API key. Once registered, update the API key in your JavaScript code.
 
 ### Installation
-1. Clone the repository:
-   ```bash
- [
-](https://github.com/BetsyAssefa/-Weather-Dashboard.git)
+1. Clone the repository:(https://github.com/BetsyAssefa/-Weather-Dashboard.git) 
+
 Navigate to the project directory:
 bash
 Copy code
